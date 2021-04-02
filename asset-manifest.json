@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/moved0311/youtube-list-to-markdown-url/static/css/main.d2f91499.chunk.css",
+    "main.js": "/moved0311/youtube-list-to-markdown-url/static/js/main.be1820f0.chunk.js",
+    "main.js.map": "/moved0311/youtube-list-to-markdown-url/static/js/main.be1820f0.chunk.js.map",
+    "runtime-main.js": "/moved0311/youtube-list-to-markdown-url/static/js/runtime-main.5d37b1d5.js",
+    "runtime-main.js.map": "/moved0311/youtube-list-to-markdown-url/static/js/runtime-main.5d37b1d5.js.map",
+    "static/js/2.2b92f301.chunk.js": "/moved0311/youtube-list-to-markdown-url/static/js/2.2b92f301.chunk.js",
+    "static/js/2.2b92f301.chunk.js.map": "/moved0311/youtube-list-to-markdown-url/static/js/2.2b92f301.chunk.js.map",
+    "static/js/3.f5474d6f.chunk.js": "/moved0311/youtube-list-to-markdown-url/static/js/3.f5474d6f.chunk.js",
+    "static/js/3.f5474d6f.chunk.js.map": "/moved0311/youtube-list-to-markdown-url/static/js/3.f5474d6f.chunk.js.map",
+    "index.html": "/moved0311/youtube-list-to-markdown-url/index.html",
+    "static/css/main.d2f91499.chunk.css.map": "/moved0311/youtube-list-to-markdown-url/static/css/main.d2f91499.chunk.css.map",
+    "static/js/2.2b92f301.chunk.js.LICENSE.txt": "/moved0311/youtube-list-to-markdown-url/static/js/2.2b92f301.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5d37b1d5.js",
+    "static/js/2.2b92f301.chunk.js",
+    "static/css/main.d2f91499.chunk.css",
+    "static/js/main.be1820f0.chunk.js"
+  ]
+}
